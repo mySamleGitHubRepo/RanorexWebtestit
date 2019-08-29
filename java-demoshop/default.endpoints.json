@@ -1,0 +1,13 @@
+{
+  "endpoints": [
+    {
+      "active": true,
+      "capabilities": {},
+      "headless": false,
+      "id": "ad56f807-d423-b524-e1a8-52d7d35cd2d4",
+      "name": "GoogleChrome",
+      "type": "local",
+      "browserName": "chrome"
+    }
+  ]
+}
