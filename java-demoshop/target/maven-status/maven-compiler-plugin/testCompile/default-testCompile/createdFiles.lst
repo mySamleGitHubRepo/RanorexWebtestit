@@ -1,0 +1,10 @@
+uitest/DebugWebDriverPool.class
+uitest/SuiteConfiguration.class
+uitest/tests/TC2.class
+uitest/pageobjects/HeaderPo.class
+uitest/pageobjects/CartPo.class
+uitest/TestNgTestBase.class
+uitest/pageobjects/ConfirmationPo.class
+uitest/pageobjects/ItemsOverviewPo.class
+uitest/pageobjects/CheckoutPo.class
+uitest/tests/TC1.class
