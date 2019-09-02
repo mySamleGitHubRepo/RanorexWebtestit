@@ -29,7 +29,7 @@ class TC2 extends TestNgTestBase {
                 .setEmail("chuck.norries@test.com").placeOrder();
 
         // Assert that the ordered amount is correct
-        Assert.assertEquals(confirmation.getTotalAmount(), "€3,700.00");
+        Assert.assertEquals(confirmation.getTotalAmount(), "€3,7020.00");
 
         // No tear down code needed - {@link TestNgTestBase} takes care of the cleanup
     }
